@@ -1,0 +1,31 @@
+div {
+    width:1000px;
+    background-color: #faebd769;
+    margin: auto;
+    padding:41px;
+    text-align: center;
+}
+
+h1{
+    color:#12a900;
+    margin:0;
+    font-size:35px;
+}
+
+p{
+    font-size:20px;
+}
+
+a{
+    font-size: 23px;
+    background-color: #0af15ec7;
+    padding: 5px 50px;color: #6e740f;/* animation: none; */text-decoration: none;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+  img{
+    width: 200px;  
+    display: block;
+      margin: auto;
+      border-radius: 200px;
+  }
